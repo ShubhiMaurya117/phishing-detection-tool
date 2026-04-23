@@ -1,3 +1,6 @@
 .env
 __pycache__/
 *.pyc
+scan_log2.txt
+*.log
+.vscode/
